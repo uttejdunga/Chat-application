@@ -19,9 +19,3 @@ A real-time chat application with group and private messaging, customizable them
 - **Realtime Communication:** Socket.io
 - **Authentication & Email:** JWT, Mailtrap
 
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/real-time-chat-app.git
-   cd real-time-chat-app
